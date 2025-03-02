@@ -1,7 +1,8 @@
 # LinuxMonitoring v2.0
 
 ## About the Project
-LinuxMonitoring v2.0 is a real-time system monitoring and analysis tool. The project includes tools for log monitoring, data analysis using GoAccess, and integration with Prometheus and Grafana for metric visualization.
+The project includes solutions for tasks related to writing Bash scripts for file generation and monitoring using Prometheus and Grafana. All tasks are described below, with each task having its own directory.
+
 
 
 ## Contents
